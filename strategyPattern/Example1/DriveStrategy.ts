@@ -1,0 +1,3 @@
+interface DriveStrategy {
+  drive(): void;
+}
